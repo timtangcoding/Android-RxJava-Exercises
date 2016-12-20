@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.goransandstrom.android_rxjava_exercises">
+    package="com.viaplay.android_rxjava_exercises">
 
     <application
         android:allowBackup="true"

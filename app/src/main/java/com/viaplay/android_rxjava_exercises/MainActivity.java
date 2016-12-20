@@ -1,4 +1,4 @@
-package com.example.goransandstrom.android_rxjava_exercises;
+package com.viaplay.android_rxjava_exercises;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
