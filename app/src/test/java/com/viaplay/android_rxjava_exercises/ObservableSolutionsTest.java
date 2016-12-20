@@ -1,10 +1,10 @@
-package com.example.goransandstrom.android_rxjava_exercises;
+package com.viaplay.android_rxjava_exercises;
 
-import com.example.goransandstrom.android_rxjava_exercises.types.Bookmark;
-import com.example.goransandstrom.android_rxjava_exercises.types.BoxArt;
-import com.example.goransandstrom.android_rxjava_exercises.types.JSON;
-import com.example.goransandstrom.android_rxjava_exercises.types.Movie;
-import com.example.goransandstrom.android_rxjava_exercises.types.Movies;
+import com.viaplay.android_rxjava_exercises.types.Bookmark;
+import com.viaplay.android_rxjava_exercises.types.BoxArt;
+import com.viaplay.android_rxjava_exercises.types.JSON;
+import com.viaplay.android_rxjava_exercises.types.Movie;
+import com.viaplay.android_rxjava_exercises.types.Movies;
 
 import org.junit.Test;
 

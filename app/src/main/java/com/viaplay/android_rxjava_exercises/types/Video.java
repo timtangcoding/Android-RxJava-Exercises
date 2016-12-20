@@ -1,4 +1,4 @@
-package com.example.goransandstrom.android_rxjava_exercises.types;
+package com.viaplay.android_rxjava_exercises.types;
 
 public class Video {
     @Override
